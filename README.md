@@ -1,2 +1,2 @@
 # .github
-Organisational description
+Tailored software and AI automation solutions for industries in Africa and beyond.
